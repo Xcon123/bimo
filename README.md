@@ -1,2 +1,2 @@
-# bimo
-ok ambil aja
+# LAUGHSEC
+LAUGHSEC
